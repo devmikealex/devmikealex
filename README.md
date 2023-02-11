@@ -4,3 +4,4 @@
 - [Timer](https://devmikealex.github.io/Timer/)
 - [Self Test](https://devmikealex.github.io/Self-Test/)
 - [Blino-Meter](https://devmikealex.github.io/Blino-Meter/)
+- [Get Steam PHP](http://aeplug.ru/getsteam/)
