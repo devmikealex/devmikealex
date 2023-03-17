@@ -1,4 +1,4 @@
-## Fast links:
+## Projects:
 
 - [YouTube Tags Helper](https://devmikealex.github.io/YouTube-Tags-Helper/) (TypeScript, React, Redux Toolkit, Tailwind CSS)
 - [Password Generator](https://devmikealex.github.io/password-generator/) (TypeScript, SASS, Webpack)
