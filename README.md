@@ -1,8 +1,8 @@
 ## Fast links:
 
-- [Password Generator](https://devmikealex.github.io/password-generator/)
-- [Timer](https://devmikealex.github.io/Timer/)
-- [Self Test](https://devmikealex.github.io/Self-Test/)
-- [Blino-Meter](https://devmikealex.github.io/Blino-Meter/)
-- [Get Steam PHP](http://aeplug.ru/getsteam/)
-- [YouTube Tags Helper](https://devmikealex.github.io/YouTube-Tags-Helper/)
+- [YouTube Tags Helper](https://devmikealex.github.io/YouTube-Tags-Helper/) (TypeScript, React, Redux Toolkit, Tailwind CSS)
+- [Password Generator](https://devmikealex.github.io/password-generator/) (TypeScript, SASS, Webpack)
+- [Timer](https://devmikealex.github.io/Timer/) (JavaScript)
+- [Self Test](https://devmikealex.github.io/Self-Test/) (React, JavaScript)
+- [Blino-Meter](https://devmikealex.github.io/Blino-Meter/) (JavaScript)
+- [Get Steam PHP](http://aeplug.ru/getsteam/) (PHP, JavaScript)
