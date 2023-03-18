@@ -6,4 +6,4 @@
 - [Self Test](https://devmikealex.github.io/Self-Test/) (SPA, React, JavaScript)
 - [Blino-Meter](https://devmikealex.github.io/Blino-Meter/) (JavaScript)
 - [Get Steam PHP](http://aeplug.ru/getsteam/) (PHP, JavaScript)
-- **BookMarks Storage SPA** ❌ WIP (Node.js, Express, MongoDB, Mongoose - React, React Router, Material UI)
+- **BookMarks Storage SPA** ❌ WIP (*Server*: Node.js, Express, MongoDB, Mongoose - *Client*: React, React Router, Material UI)
