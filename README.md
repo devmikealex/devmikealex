@@ -20,3 +20,4 @@
   - **Client**: React, React Router, Material UI
   - **Server**: Node.js, Express, MongoDB, Mongoose
 - [JSON to HTML](https://devmikealex.github.io/Informator/) (TypeScript, React, SASS)
+- [Adaptive Layout](https://devmikealex.github.io/RSS/shelter-v2/) (HTML, SASS)
