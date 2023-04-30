@@ -20,4 +20,10 @@
   - **Client**: React, React Router, Material UI
   - **Server**: Node.js, Express, MongoDB, Mongoose
 - [JSON to HTML](https://devmikealex.github.io/Informator/) (TypeScript, React, SASS)
-- [Adaptive Layout](https://devmikealex.github.io/RSS/shelter-v2/) (HTML, SASS)
+
+
+## Test tasks:
+
+- [Responsive Layout](https://devmikealex.github.io/RSS/shelter-v2/) (HTML, SASS)
+- Game XO [src](https://github.com/devmikealex/GameXO) [demo](https://devmikealex.github.io/GameXO/dist/) (TypeScript, React)
+- Game XO [src](https://github.com/devmikealex/Test-Add-user) [demo](https://devmikealex.github.io/Test-Add-user/dist/) (TypeScript, React, Redux)
