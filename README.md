@@ -27,3 +27,4 @@
 - [Responsive Layout](https://devmikealex.github.io/RSS/shelter-v2/) (HTML, SASS)
 - Game XO [github](https://github.com/devmikealex/GameXO) / [demo](https://devmikealex.github.io/GameXO/dist/) (TypeScript, React)
 - Add New User [github](https://github.com/devmikealex/Test-Add-user) / [demo](https://devmikealex.github.io/Test-Add-user/dist/) (TypeScript, React, Redux Toolkit, SASS, React Testing Library)
+- Shopping cart [github](https://github.com/devmikealex/Shopping-cart) / [demo](https://devmikealex.github.io/Shopping-cart/) (JavaScript, HTML, CSS)
